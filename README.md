@@ -1,2 +1,2 @@
 # aoc2024
-AOC2024
+advent of code 2024
