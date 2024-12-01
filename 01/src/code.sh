@@ -1,5 +1,8 @@
 #!/bin/bash
 
+[[ -z $1 ]] && echo "usage: $0 stage[1|2]" && exit 1
+
+
 INPUTDIR="input"
 INPUTFILE="input"
 #INPUTFILE="input_dummy"
